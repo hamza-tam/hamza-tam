@@ -1,4 +1,7 @@
-### Hi there 👋
+## Hi 👋 !
+### I am Hamza Tamenaoul a software and information systems engineering student !
+
+Don't forget to visit [🔗 my portfolio](https://hamza-tam.gitlab.io/)
 
 <!--
 **hamza-tam/hamza-tam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

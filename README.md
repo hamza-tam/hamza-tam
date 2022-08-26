@@ -1,7 +1,7 @@
 ## Hi 👋 !
 ### I am Hamza Tamenaoul a software and information systems engineer !
 
-Don't forget to visit [🔗 my portfolio](https://hamza-tam.gitlab.io/)
+Don't forget to visit [🔗 my portfolio](https://hamza-tam.gitlab.io/) (Deprecated for some time now)
 
 <!--
 **hamza-tam/hamza-tam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

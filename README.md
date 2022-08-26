@@ -1,5 +1,5 @@
 ## Hi 👋 !
-### I am Hamza Tamenaoul a software and information systems engineering student !
+### I am Hamza Tamenaoul a software and information systems engineer !
 
 Don't forget to visit [🔗 my portfolio](https://hamza-tam.gitlab.io/)
 

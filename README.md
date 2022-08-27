@@ -1,6 +1,6 @@
-![Banner Image](https://github.com/hamza-tam/hamza-tam/blob/master/asset/Banner.png)
+![Banner Image](https://github.com/hamza-tam/hamza-tam/blob/master/assets/Banner.png)
 
-Don't forget to visit [🔗 my portfolio](https://hamza-tam.gitlab.io/) (Deprecated for some time now)
+Don't forget to visit [🔗 my portfolio](https://hamza-tam.gitlab.io/) (Needs some maintenance)
 
 <!--
 **hamza-tam/hamza-tam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

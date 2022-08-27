@@ -1,5 +1,4 @@
-## Hi 👋 !
-### I am Hamza Tamenaoul a software and information systems engineer !
+![Banner Image](https://github.com/hamza-tam/hamza-tam/blob/master/asset/Banner.png)
 
 Don't forget to visit [🔗 my portfolio](https://hamza-tam.gitlab.io/) (Deprecated for some time now)
 
